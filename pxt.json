@@ -1,10 +1,11 @@
 {
-    "name": "Simple Laberinto V3",
+    "name": "Simple Laberinto V4",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8"
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
